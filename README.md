@@ -9,7 +9,7 @@ This project was made to map the airports in all 50 US states, Washington D.C., 
      - `pointToLayer` - applies the `font awesome` style to the marker and the color according to the presense of air traffic control towers
    - `setColor` - sets the color of the state polygon according to the number of airports the state has
    - `style` - sets the style for the state polygon, including a call to `setColor`
-   - `legend` function - adds the HTML DOM elements for the legend when it is added to the map
+   - `legend` Function - adds the HTML DOM elements for the legend when it is added to the map
 
 ## Libraries
 - [Leaflet](https://leafletjs.com/)
@@ -32,4 +32,4 @@ This project was made to map the airports in all 50 US states, Washington D.C., 
   - contains the count of airports in each state
 
 ## Basemap
-Courtesy of [CartoDB](https://carto.com/)
+- Courtesy of [CartoDB](https://carto.com/)
